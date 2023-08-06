@@ -122,6 +122,8 @@ dl {
     margin-top: 30px;}
 
 .contact-submit{
+    width: 100%;
+    height: 100%;
     background-color: #24292e;
     color: #fff;
 }
@@ -165,4 +167,4 @@ dl {
     .contact dl dt {
         padding-top: 0;
     }
-}   
+}
